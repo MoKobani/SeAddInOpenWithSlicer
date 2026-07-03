@@ -13,8 +13,6 @@
   folder and opens it directly in the configured slicer. |
   | **Select Slicer** | Opens a file dialog to select and save the path to the desired slicer's .exe file. |
 
-  The slicer path is stored per user in the registry under
-  `HKEY_CURRENT_USER\Software\2F-Leuchten\OpenWithSlicer`.
 
   Supported Solid Edge document types: `.par` (Part), `.psm` (Sheet Metal), `.asm` (Assembly).
 
